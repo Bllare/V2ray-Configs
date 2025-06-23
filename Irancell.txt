@@ -1,0 +1,27 @@
+vmess://eyJhZGQiOiAiMTA5LjEyMi4yNTQuMTgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjUyM2Q4ZDc4LTQxMWEtNDg0OS1iMTdmLWNjZmY2YmNiZjU2NCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDQ0IiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://356d8a8d-ca75-4356-a83c-903ce5631174@food.france-learns.ir:80?path=%2Fdownload&security=none&encryption=none&host=webdade.com&type=ws# 1054 | Tir-03| MTSRVRS
+vless://512c8ed7-13dc-9d8d-039a-d0d47c84a0be@ir.lightning2025.top:699?path=/ws?ed=2048&security=none&encryption=none&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&type=ws#@ConfingV2RaayNG
+vmess://eyJhZGQiOiAiMTg1LjIwMS40OS42OCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZmZlY2UyYTktMDI5Ni00NmE5LThkYjgtNzQyZDI5ZDI0MGZmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zdGF0aWMvY3NzL2pxdWVyeS9KRnhQYW1KTU5DWW1aVnh6SWt0R1lDNXJRVDB1V1M5MlhDczdLbDFqWmlreFRUaFFSQ29sRm50c0pESjRFelFvTWpFRkdGZ1ZiMXMwYkJ0T0UxRjJaUW9XIiwgInBvcnQiOiAiNDgwODYiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
+vless://af00dfbf-5d98-4cd8-80a7-df2b296c5ccf@85.185.187.2:1370?security=tls&sni=tci.shadow-net.ir&type=tcp&allowInsecure=1#Join+Telegram:@Farah_VPN
+vless://2fdc84bb-201f-4055-ec6d-302b2d70546c@45.63.117.125:39037?security=none&type=ws&path=%2F# VL-WS-NONE  DE-45.63.117.125:39037
+vmess://eyJhZGQiOiAiMzcuMjAyLjIzNy4zMSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYjY3OTExMjgtNjNiZC00NmE5LWI4YTctN2Y1NmJjYTYwMDUxIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIzNTg2NSIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tVENQLU5BIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBJUi0zNy4yMDIuMjM3LjMxOjM1ODY1IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://d0c8d5e7-2789-4e9a-bf59-6a7c796d5982@62.60.163.4:38295?security=none&type=tcp#Join+Telegram:@Farah_VPN
+vless://2fdc84bb-201f-4055-ec6d-302b2d70546c@45.63.117.125:39037?security=none&type=ws&path=%2F#Join+Telegram:@Farah_VPN
+vless://5a04dda8-7759-419d-8b74-9521371e86fd@mza2tu.lizardshop.org:8085?security=none&encryption=none&headerType=none&type=tcp#Join+Telegram:@Farah_VPN
+vless://ad5a6805-a540-44dd-bdb4-9feee804ba60@co.pou-ria.com:80?path=%2Fed%3D2560&security=none&encryption=none&host=speedtest.net.km&type=ws# 19 | Tir-03| MTSRVRS
+vless://b00fb164-0491-432a-baf0-c904d1953425@151.101.130.219:80?path=/ed=2560&security=none&encryption=none&host=speedtest.net.km&type=ws#Join+Telegram:@Farah_VPN
+vless://b00fb164-0491-432a-baf0-c904d1953425@speedtest.net:80?path=/ed=2560&security=none&encryption=none&host=speedtest.net.km&type=ws#Tel | @Mcv2rayNG               Tel | @Mcv2rayNG
+vless://5a04dda8-7759-419d-8b74-9521371e86fd@185.14.160.247:8085?security=none&type=tcp#Join+Telegram:@Farah_VPN
+vless://5a04dda8-7759-419d-8b74-9521371e86fd@185.14.160.247:8085?security=none&type=tcp# VL-TCP-NONE  IR-185.14.160.247:8085
+vmess://eyJhZGQiOiAiMzcuMjAyLjIzNy4zMSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYjY3OTExMjgtNjNiZC00NmE5LWI4YTctN2Y1NmJjYTYwMDUxIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIzNTg2NSIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+vless://c2653dab-885e-47ca-b2eb-65837f4ed82d@217.60.198.158:40665?security=none&type=ws&path=%2F#Join+Telegram:@Farah_VPN
+vmess://eyJhZGQiOiAiMTg1LjIwMS40OS42OCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZmZlY2UyYTktMDI5Ni00NmE5LThkYjgtNzQyZDI5ZDI0MGZmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zdGF0aWMvY3NzL2pxdWVyeS9KRnhQYW1KTU5DWW1aVnh6SWt0R1lDNXJRVDB1V1M5MlhDczdLbDFqWmlreFRUaFFSQ29sRm50c0pESjRFelFvTWpFRkdGZ1ZiMXMwYkJ0T0UxRjJaUW9XIiwgInBvcnQiOiAiNDgwODYiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLU5BIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBJUi0xODUuMjAxLjQ5LjY4OjQ4MDg2IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
+vless://5a04dda8-7759-419d-8b74-9521371e86fd@mza2tu.lizardshop.org:8085?security=none&encryption=none&headerType=none&type=tcp#join@ConfingV2RaayNG
+vless://b00fb164-0491-432a-baf0-c904d1953425@speedtest.net:80?path=/ed=2560&security=none&encryption=none&host=speedtest.net.km&type=ws#@ConfingV2RaayNG
+vless://af00dfbf-5d98-4cd8-80a7-df2b296c5ccf@tci.shadow-net.ir:1370?security=tls&encryption=none&headerType=none&type=tcp#Join+Telegram:@Farah_VPN
+vless://af00dfbf-5d98-4cd8-80a7-df2b296c5ccf@tci.shadow-net.ir:1370?security=tls&encryption=none&headerType=none&type=tcp#@meliconfing
+vless://b00fb164-0491-432a-baf0-c904d1953425@speedtest.net:80?path=/ed=2560&security=none&encryption=none&host=speedtest.net.km&type=ws#@TEHRANARGO
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN3FtSkN3aU1jNXlyVk1VRndsZUR3@185.49.105.170:1080# SS-TCP-NA  IR-185.49.105.170:1080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN3FtSkN3aU1jNXlyVk1VRndsZUR3@mz.mobile7seven.ir:1080#@v2r_plus
+vless://0a078a81-3ca3-4d23-8b2a-c1ae933477db@185.235.198.9:2087?security=none&type=ws&path=%2F#Join+Telegram:@Farah_VPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN3FtSkN3aU1jNXlyVk1VRndsZUR3@mz.mobile7seven.ir:1080#Join+Telegram:@Farah_VPN
