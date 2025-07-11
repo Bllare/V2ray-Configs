@@ -1,2 +1,2 @@
-subscription-userinfo: upload=0; download=0; total=107374182400; expire=2592000
-vless://ebc813a6-51f3-452d-933f-6f806fbc45e8@94.183.158.24:443?encryption=none&security=tls&sni=speedtest.net&fp=chrome&type=ws&host=speedtest.net&path=%2F#%5B%F0%9F%87%AE%F0%9F%87%B7%5D%20Iran%20-%20459%20%7C%20Github%20%3A%20Bllare
+subscription-userinfo: upload=0; download=0; total=107374182400; expire=1713019200
+vless://ebc813a6-51f3-452d-933f-6f806fbc45e8@94.183.158.24:443?encryption=none&security=tls&sni=speedtest.net&fp=chrome&type=ws&host=speedtest.net&path=%2F#Iran%20-%20459
