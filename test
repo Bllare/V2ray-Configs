@@ -1,2 +1,5 @@
-subscription-userinfo: upload=0; download=0; total=107374182400; expire=1713019200
-vless://ebc813a6-51f3-452d-933f-6f806fbc45e8@94.183.158.24:443?encryption=none&security=tls&sni=speedtest.net&fp=chrome&type=ws&host=speedtest.net&path=%2F#Iran%20-%20459
+vless://841773c5-c377-49b2-878a-a4323b21c5fa@free.fastshield.sbs:31039?security=&encryption=none&headerType=none&type=tcp#FakeName|Expire:2099-12-31|Quota:999GB
+
+vmess://eyJhZGQiOiAiZm9vLmJhciIsICJhaWQiOiAiMCIsICJob3N0IjogImZvb2Jhci5jb20iLCAiaWQiOiAiYWJjZCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiL2FwaSIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJGYWtlTmFtZXxFeHBpcmU6MjA5OS0xMi0zMXxRdW90YToxMDBHQiIsICJ0bHMiOiAiIiwgInR5cGUiOiAidnBtZXNzIn0=
+
+trojan://password123@trojan.example.com:443#FakeName|Expire:2099-12-31|Quota:999GB
