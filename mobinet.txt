@@ -1,4 +1,3 @@
-subscription-userinfo: upload=123456; download=234567; total=10737418240; expire=1720000000
 vless://841773c5-c377-49b2-878a-a4323b21c5fa@free.fastshield.sbs:31039?security=&encryption=none&headerType=none&type=tcp#%5B%F0%9F%87%AE%F0%9F%87%B7%5D%20Iran%20-%20403%20%7C%20Github%20%3A%20Bllare
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080#%5B%F0%9F%87%B1%F0%9F%87%B9%5D%20Lithuania%20-%20497%20%7C%20Github%20%3A%20Bllare
 vmess://eyJhZGQiOiJkZS5zcGVlZGh1bnRlci50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNjkyY2Y5NDktYmNmMi00Y2FkLTgwNjctMjc2MmI4ZTI0ODc0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMTI1NyIsInBzIjoiW1x1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmN10gSXJhbiAtIDYzMCB8IEdpdGh1YiA6IEJsbGFyZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
