@@ -1,120 +1,62 @@
-<div align="center">
+# 🌐 ISP V2Ray Configs
 
-# 🚀 V2ray-Configs
-
-مجموعه‌ای از کانفیگ‌های رایگان و به‌روزشده V2Ray/Xray برای اپراتورهای مختلف ایران.
-
-[![Stars](https://img.shields.io/github/stars/Bllare/V2ray-Configs?style=for-the-badge)](https://github.com/Bllare/V2ray-Configs/stargazers)
-[![License](https://img.shields.io/github/license/Bllare/V2ray-Configs?style=for-the-badge)](https://github.com/Bllare/V2ray-Configs/blob/main/LICENSE)
-
-</div>
+**مجموعه‌ای از کانفیگ‌های رایگان و به‌روزرسانی‌شده V2Ray/Xray برای اپراتورهای مختلف اینترنت ایران**
 
 ---
 
-# 📡 Subscription Links
+## 📡 لینک‌های اشتراک (Subscription)
 
-فقط یکی از لینک‌های زیر را در کلاینت V2Ray/Xray خود اضافه کنید.
+**بهترین گزینه برای شروع:** لینک **ALL** که شامل تمام کانفیگ‌ها برای همه اپراتورها است.
 
-<table>
-<tr>
-<td align="center" width="50%">
+| 🌍 **ALL** (همه کانفیگ‌ها) | لینک |
+|-----------------------------|------|
+| **همه اپراتورها** | <https://raw.githubusercontent.com/Bllare/V2ray-Configs/main/ALL.txt> |
 
-## 🌍 ALL
-برای همه اپراتورها
+### لینک‌های اختصاصی هر اپراتور
 
-```text
-https://github.com/Bllare/V2ray-Configs/raw/refs/heads/main/ALL.txt
-```
-
-</td>
-<td align="center" width="50%">
-
-## 📶 MCI
-همراه اول
-
-```text
-https://raw.githubusercontent.com/Bllare/V2ray-Configs/main/MCI
-```
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-## 📡 Irancell
-ایرانسل
-
-```text
-https://raw.githubusercontent.com/Bllare/V2ray-Configs/main/Irancell
-```
-
-</td>
-<td align="center">
-
-## 🛰️ Mobinet
-مبین‌نت
-
-```text
-https://raw.githubusercontent.com/Bllare/V2ray-Configs/main/Mobinet
-```
-
-</td>
-</tr>
-</table>
+| اپراتور | لینک اشتراک |
+|---------|-------------|
+| **MCI - همراه اول** | <https://raw.githubusercontent.com/Bllare/V2ray-Configs/main/MCI> |
+| **Mobinet - مبین‌نت** | <https://raw.githubusercontent.com/Bllare/V2ray-Configs/main/Mobinet> |
+| **Irancell - ایرانسل** | <https://raw.githubusercontent.com/Bllare/V2ray-Configs/main/Irancell> |
 
 ---
 
-# 🚀 نحوه استفاده
+## 🚀 نحوه استفاده (ساده و سریع)
 
-1. یکی از لینک‌های بالا را کپی کنید.
-2. برنامه‌ای مثل **V2RayN، Nekoray، Hiddify، Shadowrocket** و... را باز کنید.
-3. گزینه **Add Subscription** را بزنید.
-4. لینک را وارد کنید و اشتراک را به‌روزرسانی کنید.
-5. پیشنهاد می‌شود قابلیت **Auto Update** را فعال کنید تا کانفیگ‌ها همیشه به‌روز بمانند.
-
----
-
-# 🌐 ISP List
-
-| فایل | توضیحات |
-|------|----------|
-| **ALL** | شامل تمامی کانفیگ‌ها برای همه اپراتورها |
-| **MCI** | کانفیگ‌های مناسب همراه اول |
-| **Irancell** | کانفیگ‌های مناسب ایرانسل |
-| **Mobinet** | کانفیگ‌های مناسب مبین‌نت |
-
-پروتکل‌های موجود:
-
-- VLESS
-- VMess
-- Trojan
-- Shadowsocks
-- TUIC
-- Hysteria (در صورت موجود بودن)
+1. یکی از لینک‌های بالا را **کپی** کنید (پیشنهاد ما: لینک ALL).
+2. برنامه مورد علاقه‌تان را باز کنید:
+   - **ویندوز**: V2RayN یا Nekoray
+   - **اندروید**: v2rayNG یا Hiddify
+   - **iOS**: Shadowrocket یا Streak
+3. بخش **Subscription** یا **Add Subscription** را پیدا کنید و لینک را paste کنید.
+4. روی **Update** بزنید تا کانفیگ‌ها لود شوند.
+5. **Auto Update** را فعال کنید تا هر روز خودش به‌روزرسانی شود.
 
 ---
 
-# ⚠️ نکات
+## 📂 محتوای مخزن
 
-- این کانفیگ‌ها به‌صورت رایگان منتشر می‌شوند و هیچ تضمینی برای پایداری آن‌ها وجود ندارد.
-- ممکن است برخی کانفیگ‌ها در بعضی مناطق یا اپراتورها بهتر عمل کنند.
-- استفاده از این مخزن بر عهده خود کاربر است.
+- **ALL** → تمام کانفیگ‌ها با هم (بهترین انتخاب برای اکثر کاربران)
+- **MCI** → بهینه‌شده برای **همراه اول**
+- **Mobinet** → بهینه‌شده برای **مبین‌نت**
+- **Irancell** → بهینه‌شده برای **ایرانسل**
 
 ---
 
-# 📄 License
+## ⚠️ نکات مهم
+
+- این کانفیگ‌ها کاملاً **رایگان** و بدون هیچ تضمینی ارائه می‌شوند.
+- بعضی کانفیگ‌ها ممکن است در برخی مناطق یا زمان‌ها بهتر کار کنند — آزمایش کنید.
+
+---
+
+## 📄 مجوز
 
 این پروژه تحت مجوز **GNU General Public License v3.0** منتشر شده است.
 
-مشاهده جزئیات:
-
-https://github.com/Bllare/V2ray-Configs/blob/main/LICENSE
+[مشاهده LICENSE](https://github.com/Bllare/V2ray-Configs/blob/main/LICENSE)
 
 ---
 
-<div align="center">
-
-⭐ اگر این مخزن برایتان مفید بود، با دادن Star از پروژه حمایت کنید.
-
-</div>
+⭐ اگر این مخزن به دردتون خورد، لطفاً یک **ستاره** بهش بدید تا بیشتر دیده شود!
