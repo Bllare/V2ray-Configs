@@ -1,53 +1,120 @@
-# V2ray-Configs
+<div align="center">
 
-مجموعه‌ای از فایل‌های تنظیمات V2Ray/Xray رایگان و به‌روزرسانی‌شده.
+# 🚀 V2ray-Configs
 
----
+مجموعه‌ای از کانفیگ‌های رایگان و به‌روزشده V2Ray/Xray برای اپراتورهای مختلف ایران.
 
-## 📡 لینک‌های اشتراک
+[![Stars](https://img.shields.io/github/stars/Bllare/V2ray-Configs?style=for-the-badge)](https://github.com/Bllare/V2ray-Configs/stargazers)
+[![License](https://img.shields.io/github/license/Bllare/V2ray-Configs?style=for-the-badge)](https://github.com/Bllare/V2ray-Configs/blob/main/LICENSE)
 
-لینک‌های زیر را به‌عنوان ساب‌لینک (Subscription) در کلاینت V2Ray خود وارد کنید:
-
-| نام | لینک اشتراک (خام) |
-|-----|-------------------|
-| **MCI** | <https://raw.githubusercontent.com/Bllare/V2ray-Configs/main/MCI> |
-| **Mobinet** | <https://raw.githubusercontent.com/Bllare/V2ray-Configs/main/Mobinet> |
-| **Irancell** | <https://raw.githubusercontent.com/Bllare/V2ray-Configs/main/Irancell> |
+</div>
 
 ---
 
-## 🚀 نحوه استفاده
+# 📡 Subscription Links
 
-۱. یکی از لینک‌های بالا را کپی کنید.  
-۲. کلاینت V2Ray/Xray خود را باز کنید (مثلاً V2RayN، Nekoray، Shadowrocket و ...).  
-۳. یک اشتراک جدید اضافه کرده و لینک را در آن قرار دهید.  
-۴. بهتر است کلاینت را طوری تنظیم کنید که روزانه به‌طور خودکار به‌روزرسانی شود.
+فقط یکی از لینک‌های زیر را در کلاینت V2Ray/Xray خود اضافه کنید.
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+## 🌍 ALL
+برای همه اپراتورها
+
+```text
+https://github.com/Bllare/V2ray-Configs/raw/refs/heads/main/ALL.txt
+```
+
+</td>
+<td align="center" width="50%">
+
+## 📶 MCI
+همراه اول
+
+```text
+https://raw.githubusercontent.com/Bllare/V2ray-Configs/main/MCI
+```
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+## 📡 Irancell
+ایرانسل
+
+```text
+https://raw.githubusercontent.com/Bllare/V2ray-Configs/main/Irancell
+```
+
+</td>
+<td align="center">
+
+## 🛰️ Mobinet
+مبین‌نت
+
+```text
+https://raw.githubusercontent.com/Bllare/V2ray-Configs/main/Mobinet
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📂 محتوای مخزن
+# 🚀 نحوه استفاده
 
-- **Irancell** – تنظیمات بهینه‌شده برای ایرانسل  
-- **MCI** – تنظیمات بهینه‌شده برای همراه اول  
-- **Mobinet** – تنظیمات بهینه‌شده برای رایتل  
-
-هر فایل شامل چندین پروتکل مختلف (VMess، VLESS، Trojan، Shadowsocks و ...) می‌باشد.
-
----
-
-## ⚠️ سلب مسئولیت
-
-- این تنظیمات **بدون هیچ گونه تضمینی** ارائه می‌شوند.  
-- استفاده از آن‌ها ممکن است مشمول قوانین کشور شما باشد.  
-- مالک مخزن هیچ مسئولیتی در قبال سوءاستفاده یا عواقب قانونی ندارد.
+1. یکی از لینک‌های بالا را کپی کنید.
+2. برنامه‌ای مثل **V2RayN، Nekoray، Hiddify، Shadowrocket** و... را باز کنید.
+3. گزینه **Add Subscription** را بزنید.
+4. لینک را وارد کنید و اشتراک را به‌روزرسانی کنید.
+5. پیشنهاد می‌شود قابلیت **Auto Update** را فعال کنید تا کانفیگ‌ها همیشه به‌روز بمانند.
 
 ---
 
-## 📄 مجوز
+# 🌐 ISP List
 
-این پروژه تحت مجوز **GNU General Public License v3.0** منتشر شده است.  
-برای جزئیات بیشتر فایل [LICENSE](https://github.com/Bllare/V2ray-Configs/blob/main/LICENSE) را ببینید.
+| فایل | توضیحات |
+|------|----------|
+| **ALL** | شامل تمامی کانفیگ‌ها برای همه اپراتورها |
+| **MCI** | کانفیگ‌های مناسب همراه اول |
+| **Irancell** | کانفیگ‌های مناسب ایرانسل |
+| **Mobinet** | کانفیگ‌های مناسب مبین‌نت |
+
+پروتکل‌های موجود:
+
+- VLESS
+- VMess
+- Trojan
+- Shadowsocks
+- TUIC
+- Hysteria (در صورت موجود بودن)
 
 ---
 
-⭐ اگر این مخزن برایتان مفید بود، به آن ستاره دهید!
+# ⚠️ نکات
+
+- این کانفیگ‌ها به‌صورت رایگان منتشر می‌شوند و هیچ تضمینی برای پایداری آن‌ها وجود ندارد.
+- ممکن است برخی کانفیگ‌ها در بعضی مناطق یا اپراتورها بهتر عمل کنند.
+- استفاده از این مخزن بر عهده خود کاربر است.
+
+---
+
+# 📄 License
+
+این پروژه تحت مجوز **GNU General Public License v3.0** منتشر شده است.
+
+مشاهده جزئیات:
+
+https://github.com/Bllare/V2ray-Configs/blob/main/LICENSE
+
+---
+
+<div align="center">
+
+⭐ اگر این مخزن برایتان مفید بود، با دادن Star از پروژه حمایت کنید.
+
+</div>
